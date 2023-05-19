@@ -14,9 +14,9 @@ To run the code and generate coverage reports, you can follow these steps:
         * dependencies:
           flutter:
           sdk: flutter
-          provider: ^5.0.0
-          http: ^0.13.3
-          cached_network_image: ^3.0.0
+          http: ^0.13.6
+          provider: ^6.0.5
+          url_launcher: ^6.1.11
         * Save the pubspec.yaml file.
         * Run the command flutter pub get to fetch the packages and update your project.
 
